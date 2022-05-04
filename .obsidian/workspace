@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "213bd571749b4a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6bdd55027cf9c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sly Silverton Gang.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ef917462ad43340",
+    "type": "split",
+    "children": [
+      {
+        "id": "caadd8b21e8c69c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aaf16f9a6bd7037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78a0ce21f67f9b83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92b41b9fbca23442",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b811b205e036a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d264fd968f35e8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sly Silverton Gang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad6bdd55027cf9c7",
+  "lastOpenFiles": [
+    "Sly Silverton Gang.md",
+    "Mathew Glenn.md",
+    "Handsome Jack.md",
+    "Frankie the Fuse.md",
+    "Frankie the fuse.md",
+    "Lorcan.md",
+    "Tara Silverton.md",
+    "Bobby Sawbuck.md",
+    "Claude.md",
+    "Eastern Promise.md"
+  ]
+}
