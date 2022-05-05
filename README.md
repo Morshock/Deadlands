@@ -1,3 +1,3 @@
 # Deadlands
-[sherif.md]
+[[sherif.md]]
 
